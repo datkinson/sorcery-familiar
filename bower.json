@@ -1,0 +1,21 @@
+{
+  "name": "sorcery-familiar",
+  "version": "0.0.1",
+  "homepage": "https://github.com/datkinson/sorcery-familiar",
+  "authors": [
+    "Daniel Atkinson <hourd.tasa@gmail.com>"
+  ],
+  "description": "familiar for sockets and sorcery",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "core-ajax": "Polymer/core-ajax#~0.5.1"
+  }
+}
